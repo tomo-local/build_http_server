@@ -1,0 +1,6 @@
+# Binary
+src/http_server
+
+# Go
+*.test
+*.out
